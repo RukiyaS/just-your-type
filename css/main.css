@@ -3,10 +3,6 @@ body {
   background-color: #ffa07a;
 }
 
-h1 {
-  margin: 0;
-}
-
 .big-text {
   font-family: Sacramento, cursive;
   color: white;
@@ -14,18 +10,12 @@ h1 {
 
 .sml-text {
   font-family: "Source Code Pro", monospace;
-  font-weight: 200;
   color: white;
 }
 
 .med-text {
   font-family: "Source Code Pro", monospace;
-  font-weight: 900;
   color: white;
-}
-
-p {
-  margin: 0;
 }
 
 .quote {
