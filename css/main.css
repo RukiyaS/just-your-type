@@ -3,6 +3,10 @@ body {
   background-color: #ffa07a;
 }
 
+h1 {
+  margin: 0;
+}
+
 .big-text {
   font-family: Sacramento, cursive;
   color: white;
@@ -26,7 +30,6 @@ p {
 
 .quote {
   margin: auto;
-  padding-top: 6em;
 }
 
 .today {
