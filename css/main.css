@@ -1,0 +1,42 @@
+
+body {
+  background-color: #ffa07a;
+}
+
+.big-text {
+  font-family: Sacramento, cursive;
+  color: white;
+}
+
+.sml-text {
+  font-family: "Source Code Pro", monospace;
+  font-weight: 200;
+  color: white;
+}
+
+.med-text {
+  font-family: "Source Code Pro", monospace;
+  font-weight: 900;
+  color: white;
+}
+
+p {
+  margin: 0;
+}
+
+.quote {
+  margin: auto;
+  padding-top: 6em;
+}
+
+.today {
+  text-align: center;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .today {
+    text-align: right;
+  }
+
+}
